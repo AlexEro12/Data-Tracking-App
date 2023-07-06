@@ -1,0 +1,15 @@
+C:\Users\Alexandru\source\repos\Data Tracking App\Data Tracking App\bin\Debug\net6.0\Data Tracking App.exe
+C:\Users\Alexandru\source\repos\Data Tracking App\Data Tracking App\bin\Debug\net6.0\Data Tracking App.deps.json
+C:\Users\Alexandru\source\repos\Data Tracking App\Data Tracking App\bin\Debug\net6.0\Data Tracking App.runtimeconfig.json
+C:\Users\Alexandru\source\repos\Data Tracking App\Data Tracking App\bin\Debug\net6.0\Data Tracking App.dll
+C:\Users\Alexandru\source\repos\Data Tracking App\Data Tracking App\bin\Debug\net6.0\Data Tracking App.pdb
+C:\Users\Alexandru\source\repos\Data Tracking App\Data Tracking App\obj\Debug\net6.0\Data Tracking App.csproj.AssemblyReference.cache
+C:\Users\Alexandru\source\repos\Data Tracking App\Data Tracking App\obj\Debug\net6.0\Data Tracking App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandru\source\repos\Data Tracking App\Data Tracking App\obj\Debug\net6.0\Data Tracking App.AssemblyInfoInputs.cache
+C:\Users\Alexandru\source\repos\Data Tracking App\Data Tracking App\obj\Debug\net6.0\Data Tracking App.AssemblyInfo.cs
+C:\Users\Alexandru\source\repos\Data Tracking App\Data Tracking App\obj\Debug\net6.0\Data Tracking App.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru\source\repos\Data Tracking App\Data Tracking App\obj\Debug\net6.0\Data Tracking App.dll
+C:\Users\Alexandru\source\repos\Data Tracking App\Data Tracking App\obj\Debug\net6.0\refint\Data Tracking App.dll
+C:\Users\Alexandru\source\repos\Data Tracking App\Data Tracking App\obj\Debug\net6.0\Data Tracking App.pdb
+C:\Users\Alexandru\source\repos\Data Tracking App\Data Tracking App\obj\Debug\net6.0\Data Tracking App.genruntimeconfig.cache
+C:\Users\Alexandru\source\repos\Data Tracking App\Data Tracking App\obj\Debug\net6.0\ref\Data Tracking App.dll
